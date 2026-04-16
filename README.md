@@ -10,6 +10,9 @@ bash
 
 This command automatically builds the necessary images and starts the defined services.
 
+The API documentation and testing interface (Swagger) will be available at: 
+👉 [http://localhost:8080/swagger/index.html]
+
 
 ## Local Development (Visual Studio)
    
