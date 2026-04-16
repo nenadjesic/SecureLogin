@@ -13,7 +13,7 @@ This command automatically builds the necessary images and starts the defined se
 
 ## Local Development (Visual Studio)
    
-###To run the application directly from your IDE:
+### To run the application directly from your IDE:
 * Open the solution file (.sln) in Visual Studio.
 * Press CTRL + F5 to launch the application without the debugger.
 
